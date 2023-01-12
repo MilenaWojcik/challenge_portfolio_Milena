@@ -19,7 +19,7 @@ Po poprowanym wpisaniu loginu i hasła możemy zalogować się do aplikacji, za 
 Po kliknięciu przycisku zaloguj, zostajemy przeniesieni do strony głównej aplikacji. 
 
 
-Strona główna aplikacji posiada nagłówek z nazwą aplikacji tj. Scouts Panel. Aplkacja wyświetla informacje na temat ilości graczy, ilości meczy, ilości raportów. Na stronie głównej znajduje się również okno o nazwie Linki pomocnicze (nazwa linki pomocnicze jest nieaktywna, nie stanowi przycisku), pod nazwą Linki pomocnicze, w tym samym oknie, wyświetla się napis DODAJ GRACZA, jest to przycisk aktywny oraz okno o nazwie Aktywnosć (nazwa z błędem, literówka "ś"); w oknie Aktywnosć znajdziemy informacje o ostatnim stworzonym graczu, ostatnio zaaktualizowanym graczu, ostatnim stworzonym, zaaktualozowanym meczu czy ostatnio zaaktualizowanym raporcie.
+Strona główna aplikacji posiada nagłówek z nazwą aplikacji tj. Scouts Panel. Aplkacja wyświetla informacje na temat ilości graczy, ilości meczy, ilości raportów. Na stronie głównej znajduje się również okno o nazwie Linki pomocnicze (nazwa linki pomocnicze jest nieaktywna, nie stanowi przycisku), pod nazwą Linki pomocnicze, w tym samym oknie, wyświetla się napis DODAJ GRACZA, jest to przycisk aktywny oraz okno o nazwie Aktywnosć (nazwa z błędem, literówka "ś"); w oknie Aktywnosć znajdziemy informacje o ostatnim stworzonym graczu, ostatnio zaaktualizowanym graczu, ostatnim stworzonym, zaaktualozowanym meczu czy ostatnio zaaktualizowanym raporcie, jak również okno 
 
 
 Po lewej stronie znajduje się kolumna z czterema zakładkami : Strona główna, Gracze, English oraz Wyloguj; wszystkie cztery zakładki są aktywne. Do każdej zakładki przypisana jest inna ikona. 
@@ -50,3 +50,6 @@ Zakładka English pozwala na zmianę języka aplikacji na język angielski.
 
 Po kliknięciu zakładki Wyloguj, zostajemy prawidłowo wylogowani z aplikacji. 
 
+
+
+Aplikacja dostarcza nam informacji o graczach, daje możliwość dodania nowego gracza oraz dostarcza nam informacji na temat aktywności. Jest aplikacją dwujęzyczną. Aplikacja Scouts Panel jest prosta w obsłudze, raczej intuicyjna, jednakże zawierająca wiele błędów i niedociągnięć. 
