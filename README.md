@@ -52,4 +52,6 @@ Po kliknięciu zakładki **Wyloguj**, zostajemy prawidłowo wylogowani z aplikac
 
 
 
+
+Podsumowanie:
 Aplikacja dostarcza nam informacji o graczach, daje możliwość dodania nowego gracza, zmiany już istniejących danych graczy oraz informuje nas ostatnich aktywnościach w aplikacji. Jest aplikacją dwujęzyczną. Aplikacja Scouts Panel jest prosta w obsłudze, raczej intuicyjna, jednakże zawierająca wiele błędów i niedociągnięć. 
