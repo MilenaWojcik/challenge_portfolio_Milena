@@ -8,6 +8,8 @@
 Mam na imię Milena. Uczesniczę w *Dare It Challenge* ponieważ chciałabym zobaczyć jak wygląda praca *testera manualnego*. Mam nadzieję, że dzięki temu wyzwaniu uda mi się zdobyć praktyczne umiejętności i stworzyć swoje pierwszę portfolio, którym będę mogła się pochwalić w niedalekiej przyszłości. Wierzę, że te siedem tygodni będzie nie tylko nauką cennych umiejętności ale też i dobrą zabawą!
 ## Subtask 4
 **Aplikacja Scouts Panel**
+
+
 Po otwarciu strony pod adresem: https://scouts-test.futbolkolektyw.pl/pl, zostaje wyświetlony panel logowania (Scouts Panel).
 Po poprowanym wpisaniu loginu i hasła możemy zalogować się do aplikacji, za pomocą przycisku zaloguj (możliwa jest również zmiana języka na język angielski).
 Po kliknięciu przycisku zaloguj, zostajemy przeniesieni do strony głównej aplikacji. 
@@ -21,6 +23,8 @@ przykładowo:
 - pozycje niektóych graczy opisane są jako "najstarsi górole ni wiedzo hej";
 - niektórzy gracze nie są przypisani do żadnego klubu - pola te są puste;
 - do części graczy nie zostały dodane recencje; widnieje znak "-".
+
+
 Za pomocą kliknięcia na konkretnego gracza w tabeli np; ggagaga Matuefregszewski, wyświetlane zostają dodatkowe informacje o tym graczu; niektóre z tych danych również wypełnione są w sposób błędny (np. numer telefonu) lub pozostają nieuzupełnione.
 Zakładka English pozwala na zmianę języka aplikacji na język wyloguj. 
 Po kliknięciu zakładki Wyloguj, zostajemy prawidłowo wylogowani z aplikacji. 
