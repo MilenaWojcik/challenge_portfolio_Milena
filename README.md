@@ -35,10 +35,10 @@ Strona główna aplikacji posiada nagłówek z nazwą aplikacji tj. Scouts Panel
 Po lewej stronie znajduje się kolumna z czterema zakładkami : **Strona główna, Gracze, English oraz Wyloguj**; wszystkie cztery zakładki są aktywne. Do każdej zakładki przypisana jest inna ikona. 
 
 
-Po kliknięciu zakładki **Gracze**, zostajemy przeniesieni do tabeli, w której znajduje się osiem kolumn o nazwie: imię, nazwisko, wiek, pozycja, klub, recenzja, mecze oraz raporty. 
+Po kliknięciu zakładki **Gracze**, zostajemy przeniesieni do tabeli, w której znajduje się osiem kolumn o nazwie: imię, nazwisko, wiek, pozycja, klub, recenzja, mecze oraz raporty. Ponadto u góry tabeli po prawej stronie widnieją cztery ikonki, z następującymi funkcjonalnościami: Download CSV, Print, View Columns oraz Filter Table (zarówno w polskiej jak i angielskiej wersji aplikacji napisy wieświetlają się w języku angielskim). 
 
 
-Niektóre dane graczy wypełnione są w sposób nieprawidłowy lub/i są oczywiście sprzeczne.
+Niektóre dane graczy w tabeli wypełnione są w sposób nieprawidłowy lub/i są oczywiście sprzeczne.
 
 
 Przykładowo:
@@ -49,10 +49,10 @@ Przykładowo:
 * do części graczy nie zostały dodane recenzje; widnieje znak "-".
 
 
-Za pomocą kliknięcia na konkretnego gracza w tabeli np. **ggagaga Matuefregszewski**(gracz drugi w tabeli), wyświetlane zostają dodatkowe informacje o tym graczu; niektóre z tych danych również wypełnione są w sposób błędny (np. numer telefonu) lub pozostają nieuzupełnione (pola puste).
+Za pomocą kliknięcia na konkretnego gracza w tabeli np. ***ggagaga Matuefregszewski***, wyświetlane zostają dodatkowe informacje o tym graczu; niektóre z tych danych również wypełnione są w sposób błędny (np. numer telefonu) lub pozostają nieuzupełnione (pola puste).
 
 
-W zakładce Gracze, aplikacja umożliwia również wyszukanie konkretnego gracza *(Search...)*; funkcjonalność ta znajduje się u góry strony na pasku w kolorze niebieskim.   
+W zakładce Gracze, aplikacja umożliwia również wyszukanie konkretnego gracza *(Search...)*; funkcjonalność ta znajduje się u góry strony na pasku w kolorze niebieskim. 
 
 
 Zakładka **English** pozwala na zmianę języka aplikacji na język angielski. 
