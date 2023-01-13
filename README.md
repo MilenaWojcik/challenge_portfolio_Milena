@@ -5,9 +5,9 @@
 **Dzień dobry!** 
 
 
-Mam na imię Milena. Uczesniczę w *Dare It Challenge* ponieważ chciałabym zobaczyć jak wygląda praca *testera manualnego*. Mam nadzieję, że dzięki temu wyzwaniu uda mi się zdobyć praktyczne umiejętności i stworzyć swoje pierwszę portfolio, którym będę mogła się pochwalić w niedalekiej przyszłości. Wierzę, że te siedem tygodni będzie nie tylko nauką cennych umiejętności ale też i dobrą zabawą!
+Mam na imię Milena. Uczesniczę w *Dare It Challenge* ponieważ chciałabym zobaczyć jak wygląda praca *testera manualnego*. Mam nadzieję, że dzięki temu wyzwaniu uda mi się zdobyć praktyczne umiejętności i stworzyć swoje pierwszę portfolio, którym będę mogła się pochwalić w niedalekiej przyszłości. Wierzę, że te siedem tygodni będzie nie tylko nauką cennych umiejętności pod okiem mentorek ale też i dobrą zabawą!
 ## Subtask 4
-**Aplikacja Scouts Panel**
+***Aplikacja Scouts Panel***
 
 
 Po otwarciu strony pod adresem: https://scouts-test.futbolkolektyw.pl/pl, zostaje wyświetlony panel logowania (Scouts Panel).
@@ -19,7 +19,7 @@ Po poprowanym wpisaniu loginu i hasła możemy zalogować się do aplikacji, za 
 Po kliknięciu przycisku zaloguj, zostajemy przeniesieni do strony głównej aplikacji Scouts Panel. 
 
 
-Strona główna aplikacji posiada nagłówek z nazwą aplikacji tj. Scouts Panel. Aplikacja wyświetla informacje na temat ilości graczy, ilości meczy, ilości raportów. Na stronie głównej znajduje się również okno o nazwie Scouts Panel, pod tą nazwą widnieje przycisk DEV TEAM CONTACT (przycisk jest aktywny, przekierowuje nas do *Slack*, w oknie tym znajduje się również grafika. Kolejnym oknem jest okno pod nazwą Linki pomocnicze (nazwa linki pomocnicze jest nieaktywna, nie stanowi przycisku), pod nazwą Linki pomocnicze, w tym samym oknie, wyświetla się napis DODAJ GRACZA, jest to przycisk aktywny, umożliwiający dodanie nowego gracza do aplikacji. Ostatnim oknem jest okno o nazwie Aktywnosć (nazwa z błędem, literówka "ś"); w oknie Aktywnosć znajdziemy informacje o ostatnim stworzonym graczu, ostatnio zaktualizowanym graczu, ostatnim stworzonym, zaktualizowanym meczu czy ostatnio zaktualizowanym raporcie.  
+|:--:Strona główna aplikacji posiada nagłówek z nazwą aplikacji tj. Scouts Panel. Aplikacja wyświetla informacje na temat ilości graczy, ilości meczy, ilości raportów. Na stronie głównej znajduje się również okno o nazwie Scouts Panel, pod tą nazwą widnieje przycisk DEV TEAM CONTACT (przycisk jest aktywny, przekierowuje nas do *Slack*, w oknie tym znajduje się również grafika. Kolejnym oknem jest okno pod nazwą Linki pomocnicze (nazwa linki pomocnicze jest nieaktywna, nie stanowi przycisku), pod nazwą Linki pomocnicze, w tym samym oknie, wyświetla się napis DODAJ GRACZA, jest to przycisk aktywny, umożliwiający dodanie nowego gracza do aplikacji. Ostatnim oknem jest okno o nazwie Aktywnosć (nazwa z błędem, literówka "ś"); w oknie Aktywnosć znajdziemy informacje o ostatnim stworzonym graczu, ostatnio zaktualizowanym graczu, ostatnim stworzonym, zaktualizowanym meczu czy ostatnio zaktualizowanym raporcie.-|
 
 
 Po lewej stronie znajduje się kolumna z czterema zakładkami : **Strona główna, Gracze, English oraz Wyloguj**; wszystkie cztery zakładki są aktywne. Do każdej zakładki przypisana jest inna ikona. 
@@ -32,11 +32,11 @@ Niektóre dane graczy wypełnione są w sposób nieprawidłowy lub/i są oczywi�
 
 
 Przykładowo:
-- wiek wynosi -4 lub 1022 lat;
-- imię i nazwisko stanowi jedynie ciąg przykładowych liter i znaków specjalnych;
-- pozycje niektórych graczy opisane są jako "najstarsi górole ni wiedzo hej";
-- niektórzy gracze nie są przypisani do żadnego klubu (pola te są puste);
-- do części graczy nie zostały dodane recenzje; widnieje znak "-".
+* wiek wynosi -4 lub 1022 lat;
+* imię i nazwisko stanowi jedynie ciąg przykładowych liter i znaków specjalnych;
+* pozycje niektórych graczy opisane są jako "najstarsi górole ni wiedzo hej";
+* niektórzy gracze nie są przypisani do żadnego klubu (pola te są puste);
+* do części graczy nie zostały dodane recenzje; widnieje znak "-".
 
 
 Za pomocą kliknięcia na konkretnego gracza w tabeli np. **ggagaga Matuefregszewski**(gracz drugi w tabeli), wyświetlane zostają dodatkowe informacje o tym graczu; niektóre z tych danych również wypełnione są w sposób błędny (np. numer telefonu) lub pozostają nieuzupełnione (pola puste).
