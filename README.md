@@ -1,4 +1,7 @@
 # Task 1
+
+---
+
 ## Subtask 1
 10 punktów!
 ## Subtask 3
@@ -53,7 +56,7 @@ Przykładowo:
 * do części graczy nie zostały dodane recenzje; widnieje znak "-".
 
 
->Za pomocą kliknięcia na konkretnego gracza w tabeli np. ***ggagaga Matuefregszewski***, wyświetlane zostają dodatkowe informacje o tym graczu; niektóre z tych danych również wypełnione są w sposób błędny (np. numer telefonu) lub pozostają nieuzupełnione (pola puste); ponadto w kolumnie po lewej stronie wyświetlają się dodatkowe trzy zakładki: zakładka z **Imieniem i Nazwiskiem** danego gracza; zakładka **Mecze**, gdzie znajdziemy informacje o drużynach danego zawodnika, zdobytych i straconych golach, drużynach przeciwnych, datach, jaki był czas gry, recenzjach i autorach, a także akcjach w ramach których możemy edytować mecz danego gracza, dodać raport oraz rozpocząć mecz (odpowiednio trzy ikonki); nad tabelką w tej zakładce (Mecze) widnieje również aktywny przycisk dodaj mecz, który przenosi nas do dodania meczy dla danego gracza; ostatnią zakładką jest zakładka **Raporty**, gdzie widnieją informacje w formie tabeli o danym zawodniku; nad tabelą widnieje aktywy przycik dodaj raport, przenoszący nas do zakładki Mecze.<
+Za pomocą kliknięcia na konkretnego gracza w tabeli np. ***ggagaga Matuefregszewski***, wyświetlane zostają dodatkowe informacje o tym graczu; niektóre z tych danych również wypełnione są w sposób błędny (np. numer telefonu) lub pozostają nieuzupełnione (pola puste); ponadto w kolumnie po lewej stronie wyświetlają się dodatkowe trzy zakładki: zakładka z **Imieniem i Nazwiskiem** danego gracza; zakładka **Mecze**, gdzie znajdziemy informacje o drużynach danego zawodnika, zdobytych i straconych golach, drużynach przeciwnych, datach, jaki był czas gry, recenzjach i autorach, a także akcjach w ramach których możemy edytować mecz danego gracza, dodać raport oraz rozpocząć mecz (odpowiednio trzy ikonki); nad tabelką w tej zakładce (Mecze) widnieje również aktywny przycisk dodaj mecz, który przenosi nas do dodania meczy dla danego gracza; ostatnią zakładką jest zakładka **Raporty**, gdzie widnieją informacje w formie tabeli o danym zawodniku; nad tabelą widnieje aktywy przycik dodaj raport, przenoszący nas do zakładki Mecze.
 
 
 W zakładce Gracze, aplikacja umożliwia również wyszukanie konkretnego gracza *(Search...)*; funkcjonalność ta znajduje się u góry strony na pasku w kolorze niebieskim. 
