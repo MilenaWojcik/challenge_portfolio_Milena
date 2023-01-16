@@ -9,7 +9,7 @@
 **Dzień dobry!** 
 
 
-Mam na imię Milena. Uczesniczę w *Dare It Challenge* ponieważ chciałabym zobaczyć jak wygląda praca *testera manualnego*. Mam nadzieję, że dzięki temu wyzwaniu uda mi się zdobyć praktyczne umiejętności i stworzyć swoje pierwszę portfolio, którym będę mogła się pochwalić w niedalekiej przyszłości. Wierzę, że te siedem tygodni będzie nie tylko nauką cennych umiejętności pod okiem mentorek ale też i dobrą zabawą!
+Mam na imię Milena. Uczestniczę w *Dare It Challenge* ponieważ chciałabym zobaczyć jak wygląda praca *testera manualnego*. Mam nadzieję, że dzięki temu wyzwaniu uda mi się zdobyć praktyczne umiejętności i stworzyć swoje pierwsze portfolio, którym będę mogła się pochwalić w niedalekiej przyszłości. Wierzę, że te siedem tygodni będzie nie tylko nauką cennych umiejętności pod okiem mentorek ale też i dobrą zabawą!
 ## Subtask 4
 ***Aplikacja Scouts Panel***
 
