@@ -75,3 +75,15 @@ Po kliknięciu zakładki **Wyloguj**, zostajemy prawidłowo wylogowani z aplikac
 
 
 Aplikacja dostarcza nam informacji o graczach, daje możliwość dodania nowego gracza, zmiany już istniejących danych graczy oraz informuje nas ostatnich aktywnościach w aplikacji. Jest aplikacją dwujęzyczną. Aplikacja Scouts Panel jest prosta w obsłudze, raczej intuicyjna, jednakże zawierająca wiele błędów i niedociągnięć. 
+
+
+
+
+# Task 2
+
+## Subtask 2
+
+Dla testera oprogramowania przypadki testowe stanowią swoiste dowody pomiaru funkcjonalności systemu, modułu czy aplikacji. Piszemy je, aby udokumentować w jaki sposób należy sprawdzić określony cel testowy, który zweryfikuje czy oczekiwane zachowania oprogramowania zotały zrealizowane. Dzięki pokryciu przypadkami testowymi mamy pewność, że nie została pominięta żadna istotna funkcjonalność. Po zakończeniu naszych testów, to właśnie na podstawie przypadków testowych, testerzy oprogramowania, mogą przygotowywać raporty z wykonanych testów. Przypadki testowe stanowią również bardzo pomocne źródłó informacji o oprogramowaniu czy aplikacji. Przypadki testowe wykorzystywane są również celem potwierdzenia działania oprogramowania/ aplikacji zgodnie z wymaganiami użytkowników czy interesariuszy (walidacja).
+
+
+
