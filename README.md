@@ -83,7 +83,11 @@ Aplikacja dostarcza nam informacji o graczach, daje możliwość dodania nowego 
 
 ## Subtask 2
 
-Dla testera oprogramowania przypadki testowe stanowią swoiste dowody pomiaru funkcjonalności systemu, modułu czy aplikacji. Piszemy je, aby udokumentować w jaki sposób należy sprawdzić określony cel testowy, który zweryfikuje czy oczekiwane zachowania oprogramowania zotały zrealizowane. Dzięki pokryciu przypadkami testowymi mamy pewność, że nie została pominięta żadna istotna funkcjonalność. Po zakończeniu naszych testów, to właśnie na podstawie przypadków testowych, testerzy oprogramowania, mogą przygotowywać raporty z wykonanych testów. Przypadki testowe stanowią również bardzo pomocne źródłó informacji o oprogramowaniu czy aplikacji. Przypadki testowe wykorzystywane są również celem potwierdzenia działania oprogramowania/ aplikacji zgodnie z wymaganiami użytkowników czy interesariuszy (walidacja).
+
+***Dlaczego piszemy przypadki testowe?*** 
+
+
+Dla testera oprogramowania przypadki testowe stanowią swoiste dowody pomiaru funkcjonalności systemu, modułu czy aplikacji. Piszemy je, aby udokumentować w jaki sposób należy sprawdzić określony cel testowy, który zweryfikuje czy oczekiwane zachowania oprogramowania zotały zrealizowane. Dzięki pokryciu przypadkami testowymi mamy pewność, że nie została pominięta żadna istotna funkcjonalność. Po zakończeniu naszych testów, to właśnie na podstawie przypadków testowych, testerzy oprogramowania, mogą przygotowywać raporty z wykonanych testów. Przypadki testowe stanowią również bardzo pomocne źródło informacji o oprogramowaniu czy aplikacji. Przypadki testowe wykorzystywane są również celem potwierdzenia działania oprogramowania/ aplikacji zgodnie z wymaganiami użytkowników czy interesariuszy (walidacja).
 
 
 
