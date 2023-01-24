@@ -81,6 +81,12 @@ Aplikacja dostarcza nam informacji o graczach, daje możliwość dodania nowego 
 
 # Task 2
 
+
+## Subtask 1
+
+https://docs.google.com/document/d/18D_-8GQwhYld5gUiebtUObIoynIa3029IHZEb0m61OU/edit
+
+
 ## Subtask 2
 
 
